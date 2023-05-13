@@ -1,0 +1,182 @@
+Concepto
+La idea de negocio consiste en ofrecer como producto un sistema automatizado de gesti ́on para el aumento de la
+eficiencia energ ́etica en edificios, minimizando el consumo sin perjudicar el desempe ̃no del sistema en t ́erminos de
+comfort. Dados los altos costes asociados a la mejora de la eficiencia energ ́etica mediante actuaciones enfocadas
+a la reforma de elementos constructivos o pasivos (aislamiento en ventanas, fachadas, etc), el potencial de la
+propuesta reside en alcanzar desempe ̃nos equivalentes, reduciendo considerablemente el coste asociado. Para ello,
+se hace uso de sistemas activos de control y gesti ́on inteligentes, bas ́andose en el desarrollo previo de Digital
+Twins (DT) del edificio. En primer lugar, se desarrolla un sistema tecnol ́ogico basado en el despliegue de una red
+de sensores IoT de bajo coste y consumo, y haciendo uso de t ́ecnicas de Machine Learning (ML) e Inteligencia
+Artificial (AI), para optimizar el consumo el ́ectrico y mejorar la eficiencia energ ́etica de edificios en tiempo real.
+Se apoyar ́a en Cloud Computing (CC) para asegurar su escalabilidad y disponibilidad, basado en AI y ML para la
+predicci ́on, estimaci ́on, optimization y control del sistema y la mejora de la eficiencia energ ́etica, buscando no s ́olo
+el ahorro econ ́omico sino una reducci ́on significativa de la huella de carbono.
+El proyecto estar ́a enfocado en cumplir con los objetivos de ahorro energ ́etico detallados por la agenda 2023.
+Por ejemplo, la Uni ́on Europea (UE) ha includo la necesidad de aumentar la eficiencia energ ́etica de edificios en
+planes recientes para la transici ́on clim ́atica de la UE [European Council(2022), European Commission(2022a),
+European Commission and Directorate-General for Communication(2021), European Commission(2022b)].
+
+Oportunidad
+Esta soluci ́on de eficiencia energ ́etica en edificios mediante sensores IoT y t ́ecnicas de ML e AI se relaciona con
+la Agenda 2030 de la UE, ya que busca contribuir a la consecuci ́on de los Objetivos de Desarrollo Sostenible
+(ODS), en particular el ODS 7 de Energ ́ıa Asequible y no Contaminante, el ODS 9 de Industria, Innovaci ́on e
+Infraestructura y el ODS 11 de Ciudades y Comunidades Sostenibles. Al mejorar la eficiencia energ ́etica de los
+edificios, se reducen las emisiones de gases de efecto invernadero y se promueve el uso de energ ́ıas renovables.
+Adem ́as, facilitar la adaptaci ́on a las nuevas normativas (por ejemplo el etiquetado energ ́etico), se fomenta la toma
+de decisiones informadas y se incentiva a los propietarios de edificios a adoptar medidas sostenibles.
+
+Mercado
+La soluci ́on propuesta para mejorar la eficiencia energ ́etica en edificios tiene un amplio espectro de posibles clientes.
+Por un lado, uno de los grupos prioritarios son los propietarios y administradores de edificios comerciales, como
+oficinas, hospitales, centros comerciales y hoteles, que buscan reducir el costo el ́ectrico y mejorar su imagen frente
+al p ́ublico en t ́erminos de responsabilidad con el medio ambiente.
+Por otro lado, otro grupo son los propietarios y administradores de edificios residenciales (comunitarios y
+unifamiliares), que buscan adaptarse a las normativas actuales y mejorar la eficiencia energ ́etica para reducir el
+costo el ́ectrico. Especial inter ́es tienen los edificios comunitarios, pues independiza cada vivienda del resto, sin
+necesidad de realizar reformas completas del edificio que requieren el concenso de todos los propietarios.
+
+Competencia
+Actualmente existen soluciones en el mercado que buscan mejorar la eficiencia energ ́etica en edificios mediante
+actuaciones enfocadas a la reforma de elementos constructivos o pasivos. Sin embargo, muchos de estos sistemas
+son costosos y requieren una gran inversi ́on inicial, lo que puede ser un obst ́aculo para peque ̃nas empresas o
+propietarios de edificios m ́as peque ̃nos. Por otro lado, algunas empresas ofrecen el seguimiento del consumo de
+energ ́ıa, pero la mayor ́ıa no utilizan t ́ecnicas de AI (una tendecia creciente) para optimizar el uso de la energ ́ıa y
+reducir costos. Por tanto, nuestra soluci ́on propone una soluci ́on integral m ́as econ ́omica y eficiente en t ́erminos de
+coste y tecnolog ́ıa, con el objetivo de ofrecer una soluci ́on m ́as accesible y completa para la mejora de la eficiencia
+energ ́etica en edificios.
+
+Ventaja competitiva
+La ventaja competitiva de nuestra propuesta es que ofrecemos una soluci ́on integral y personalizada para mejorar
+la eficiencia energ ́etica de los edificios, adem ́as de ser resiliente frente a cambios ya que el sistema en si aprende
+sobre los patrones de uso del edificio. A diferencia de otras empresas que pueden ofrecer soluciones parciales,
+nosotros abordamos el problema desde una perspectiva hol ́ıstica, analizando cada edificio de manera individualizada y
+proporcionando un plan personalizado que aborda todas las  ́areas relevantes, desde la iluminaci ́on hasta la calefacci ́on
+y la refrigeraci ́on. Adem ́as, nuestra soluci ́on tambi ́en se centra en fomentar la toma de decisiones informadas e
+incentivar a los propietarios de edificios a adoptar medidas sostenibles a largo plazo, lo que les permitir ́a ahorrar
+costes y mejorar su huella de carbono.
+
+Modelo de negocio
+El modelo de negocio de nuestro proyecto se basa en ofrecer una soluci ́on tecnol ́ogica integral para la gesti ́on,
+optimizaci ́on y mejora de la eficiencia energ ́etica en edificios a trav ́es de una red de sensores IoT y t ́ecnicas de
+inteligencia artificial y aprendizaje autom ́atico. Nos dirigiremos a empresas y organizaciones propietarias o gestoras
+de edificios de todo tipo, incluyendo oficinas, hoteles, hospitales, centros comerciales y residenciales, entre otros.
+Nuestros clientes pagar ́an por un plan de estudio y una soluci ́on a trav ́es de un modelo de p ́ago  ́unico, en el
+cual cobraremos por el n ́umero de sensores instalados en el edificio y por el uso de nuestra plataforma de an ́alisis
+y gesti ́on de datos. Adem ́as, ofreceremos servicios adicionales, como asesoramiento energ ́etico y soporte t ́ecnico,
+que ser ́an facturados por separado.
+Creemos que nuestro enfoque integral y nuestra tecnolog ́ıa de vanguardia nos diferencian de la competencia,
+permiti ́endonos ofrecer una soluci ́on m ́as eficiente, precisa y econ ́omica para la gesti ́on energ ́etica de edificios.
+Adem ́as, nuestro modelo de suscripci ́on permite a nuestros clientes una mayor flexibilidad y escalabilidad en su uso
+de nuestra soluci ́on, adapt ́andose a sus necesidades y presupuestos espec ́ıficos. construcci
+
+Vision
+En el corto plazo se prev ́e una instalaci ́on piloto al final del a ̃no 2023 en el edificion L3 de la Universidad de Sevilla
+para validar el hardware b ́asico de la red de sensores y sistema de modelado Digital Twin.
+En el medio plazo, nuestro objetivo es enfocarnos en la validaci ́on de nuestra propuesta en edificios residenciales
+y peque ̃nas empresas, demostrando la efectividad de nuestra soluci ́on en t ́erminos de ahorro energ ́etico y reducci ́on
+de costos operativos.
+A medida que se vaya consolidando nuestra presencia en este segmento de mercado, nos proponemos expandir
+nuestra soluci ́on a empresas y organizaciones de diferentes sectores que tienen edificios y oficinas con altos consumos
+de energ ́ıa, como hoteles, centros comerciales, grandes almacenes, universidades y edificios residenciales de mayor
+tamano.
+
+Impacto social
+A trav ́es de la implementaci ́on de un sistema de gesti ́on y optimizaci ́on de la energ ́ıa, se busca reducir el consumo
+energ ́etico y, por lo tanto, disminuir la emisi ́on de gases de efecto invernadero, lo cual es fundamental para luchar
+contra el cambio clim ́atico y contribuir al Objetivo de Desarrollo Sostenible (ODS) n ́umero 13, Acci ́on por el Clima.
+Adem ́as, el proyecto tambi ́en se enfoca en reducir los costos energ ́eticos, lo cual puede contribuir al ODS
+n ́umero 7, Energ ́ıa Asequible y no Contaminante, al hacer que la energ ́ıa sea m ́as accesible para todos. Tambi ́en
+puede ayudar a mejorar la calidad de vida de las personas al ofrecer un ambiente m ́as c ́omodo y saludable en los
+edificios, lo cual puede contribuir al ODS n ́umero 3, Salud y Bienestar.
+Por otro lado, al ofrecer una soluci ́on de bajo costo para mejorar el etiquetado energ ́etico, el proyecto puede
+ayudar a las empresas a cumplir con los requisitos legales y normativos en relaci ́on a la eficiencia energ ́etica, lo cual
+puede contribuir al ODS n ́umero 12, Producci ́on y Consumo Responsables.
+
+En resumen, el proyecto puede contribuir a varios de los Objetivos de Desarrollo Sostenible, en particular
+los relacionados con la acci ́on por el clima, la energ ́ıa asequible y no contaminante, la salud y el bienestar, y la
+producci ́on y consumo responsables.
+
+Soporte
+El equipo promotor se encuentra formado por integrates del departamento de Ingneier ́ıa de Sistemas y Autom ́atica
+de la Universidad de Sevilla en actual formaci ́on para la obtenci ́on del t ́ıtulo de Doctor en Ingenieria bajo el
+programa en Ingenir ́ıa Electr ́onica, Autom ́atica y de telecomunicaicones. Los conocimientos que aportar ́an una
+ventaja competitiva al modelo de negocio son principalmente en tecnolog ́ıa IoT, inteligencia artificial, aprendizaje
+autom ́atico y cloud computing. Adem ́as, ser ́a necesario contar con conocimientos en gesti ́on energ ́etica y en el
+mercado de la eficiencia energ ́etica.
+La capacidad de integrar y aplicar estos conocimientos en un sistema eficaz y eficiente de gesti ́on de la energ ́ıa
+ser ́a clave para lograr una ventaja competitiva en el mercado y, al mismo tiempo, contribuir al impacto social
+deseado al reducir el consumo de energ ́ıa y las emisiones de gases de efecto invernadero. Tambi ́en ser ́a importante
+contar con habilidades en marketing y ventas para llegar al p ́ublico objetivo y establecer alianzas con empresas y
+organizaciones del sector energ ́etico.
+
+Estado actual y soporte
+Figura 1: Esquema de la sala de la planta piloto del L3 de la US.
+Actualmente el desarrollo de una planta piloto en los laboratorios de la Escuelta T ́ecnica Superior de Ingenier ́ıa
+de la Universidad de Sevilla (Figuras 1, 2, 3 y 4) se encuentra en fase TRL3 (Technology Readiness Level), bajo
+los proyectos Optimizaci ́on predictiva basada en aprendizaje en tiempo real. Aplicaci ́on a sistemas de climatizaci ́on
+(P20 00546) y Operaci ́on Segura de Infraestructuras Estrat ́egicas Basada en Optimizaci ́on con Restricciones Prob-
+abil ́ısticas y Aprendizaje (PID2019-106212RB-C41).
+La empresa cuenta con el apoyo del Grupo de Estimaci ́on, Predicci ́on, Optmizaci ́on y Control del Departamento
+de Ingenier ́ıa de Sistemas y Autom ́atica de la Universidad de Sevilla .
+Art ́ıculo “Thermal Modeling of Existing Buildings in High-Fidelity Simulators: A Novel, Practical Methodology”
+(2023), publicado por Jos ́e Antonio Borja en la revista cient ́ıfica Energy&Buildings de la editorial Elsevier, referente
+en el campo de la arquitectura, ingenier ́ıa civil y la energ ́ıa (n ́umero 8/138 en el ranking seg ́un JCR). Este m ́etodo
+ser ́a de aplicaci ́on para la caracterizaci ́on y modelado t ́ermico de los edificios a gestionar.
+En la actualida, se ha llevado a cabo el desarrollo, dise ̃no e implementaci ́on de los distintos sensores a ser utiliza-
+dos por la infraestructura hardware, la implementaci ́on y puesta en funcionamiento de la red de sensores a trav ́es de
+su instalaci ́on en distintos edificios de la Escuela T ́ecnica Superior de Ineger ́ıa, y el desarrollo e implementaci ́on de
+diversas estrategias de predicci ́on, estimaic ́on y control aplicadas a la mejor de la eficioencia energ ́etica en sistemas
+de climatizaci ́on, ventilaci ́on y calefacci ́on en edificios (HVAC).
+
+Figura 2: Prototipo V1 de la red de sensores.
+Figura 3: Esquema provisional de red de
+comunicaciones hardware
+Figura 4: Prototipo V2 de la red de sensores.
+
+Producto m ́ınimo viable
+Para esta idea de negocio, el PMV ser ́a una aplicaci ́on web que permita la monitorizaci ́on en tiempo real del
+consumo energ ́etico de un edificio utilizando una red de sensores de bajo coste conectados mediante tecnolog ́ıa
+IoT. La aplicaci ́on deber ́a proporcionar informaci ́on sobre el consumo energ ́etico y las  ́areas donde se puede optimizar
+la eficiencia energ ́etica del edificio. Tambi ́en se deber ́a incluir una herramienta de an ́alisis que utilice t ́ecnicas de
+aprendizaje autom ́atico e inteligencia artificial para proporcionar recomendaciones personalizadas y espec ́ıficas para
+mejorar la eficiencia energ ́etica.
+
+Lienzo de negocio
+Segmentos de clientes
+• Propietarios de edificios comerciales y residenciales.
+• Administradores de edificios.
+• Empresas de construcci ́on e ingenier ́ıa.
+• Empresas de servicios de energ ́ıa.
+Propuesta de valor
+• Reducci ́on del consumo de energ ́ıa y ahorro econ ́omico.
+• Mejora de la eficiencia energ ́etica de edificios.
+• Reducci ́on de la huella de carbono.
+• Adecuaci ́on de edificios al cumplimiento de los objetivos de la Agenda 2023.
+• Disponibilidad de informaci ́on de an ́alisis de patrones de consumo.
+Canales de distribuci ́on
+• Alianzas estrat ́egicas con empresas de construcci ́on, ingenier ́ıa y servicios p ́ublicos de energ ́ıa.
+• Ventas directas.
+• Marketing digital y redes sociales
+Relaci ́on con el cliente
+• Atenci ́on al cliente en l ́ınea con asistente virtual.
+• Soporte t ́ecnico personalizado.
+• Actualizaciones de la plataforma de gesti ́on de energ ́ıa.
+Recursos clave
+• Tecnolog ́ıa: t ́ecnicas de gesti ́on, red de sensores IoT de bajo costo, algoritmos de aprendizaje, etc.
+• Equipo de desarrollo y soporte t ́ecnico.
+• Plataforma de gesti ́on de energ ́ıa basada en la nube.
+5
+Actividades clave
+• Desarrollo y mejora continua de los dispositivos de medici ́on y la plataforma de gesti ́on de energ ́ıa.
+• Instalaci ́on de sensores IoT y configuraci ́on de la plataforma de gesti ́on de energ ́ıa.
+• Investigaci ́on y desarrollo de soluciones de aprendizaje autom ́atico, control  ́optimo e inteligencia arti-
+ficial.
+Asociaciones clave
+• Empresas de construcci ́on y de ingenier ́ıa.
+• Empresas de servicios p ́ublicos de energ ́ıa.
+• Proveedores de sensores IoT y tecnolog ́ıa de la informaci ́on.
+Costos
+• Gastos de desarrollo y mejora de la plataforma de gesti ́on de energ ́ıa.
+• Costos de adquisici ́on de sensores IoT y otros componentes de hardware.
+• Costos de personal y soporte t ́ecnico.
+• Costos de marketing y publicidad.
